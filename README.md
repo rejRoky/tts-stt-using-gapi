@@ -56,4 +56,4 @@ python tts-stt.py
 - https://cloud.google.com/speech-to-text/docs/async-recognize#speech-async-recognize-gcs-python
 
 ## Author
-- [Rejaul Islam Roky]( https://www.linkedin.com/in/rejaulroky/)
+- [Rejaul Islam Roky]( https://www.linkedin.com/in/rejroky/)
