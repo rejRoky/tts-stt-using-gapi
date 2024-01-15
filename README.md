@@ -1,4 +1,3 @@
-# tts-stt-using-gapi
 
 ## Description
 This is a simple python script that uses Google Cloud Speech-to-Text and Text-to-Speech APIs to convert text to speech and speech to text.
