@@ -19,13 +19,10 @@ This is a simple python script that uses Google Cloud Speech-to-Text and Text-to
 - google-auth-httplib2
 - google-auth
 - googleapis-common-protos
-- six
 - urllib3
 - requests
 - requests-oauthlib
 - oauthlib
-- setuptools
-- wheel
 - pip
 - virtualenv
 
